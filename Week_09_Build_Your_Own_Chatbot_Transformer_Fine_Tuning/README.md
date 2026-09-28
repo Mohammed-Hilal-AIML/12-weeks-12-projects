@@ -99,13 +99,3 @@ Type `quit` or `exit` to stop. Previous turns are retained as context.
 ```powershell
 py -3.12 scripts/evaluate.py
 ```
-
-## Important
-Do not claim a specific loss, perplexity, accuracy, response quality, or training time until you actually run the project. Results depend on hardware and the training run.
-
-## GitHub
-Repository name:
-`Week_09_Build_Your_Own_Chatbot_with_Transformer_Fine_Tuning`
-
-Description:
-`GPT-2 chatbot fine-tuned on DailyDialog using Hugging Face Transformers, with generation controls, conversation history, and perplexity evaluation.`
