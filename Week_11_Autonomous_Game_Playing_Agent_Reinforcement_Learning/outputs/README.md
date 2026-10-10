@@ -1,1 +1,8 @@
-# Outputs\n\nTraining creates `training_rewards.csv` and `training_rewards.png`. Generated results are ignored by Git by default; commit selected outputs only after verifying them.\n
+# Outputs
+
+Training generates the following files:
+
+- `training_rewards.csv` — episode rewards recorded during training.
+- `training_rewards.png` — plot of episode rewards and the rolling average.
+
+Generated results are ignored by Git by default. Commit selected output files only after verifying that they exist and contain genuine results from your own training run.
