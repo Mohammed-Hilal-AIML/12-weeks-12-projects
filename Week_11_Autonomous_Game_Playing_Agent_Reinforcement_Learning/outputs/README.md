@@ -1,0 +1,1 @@
+# Outputs\n\nTraining creates `training_rewards.csv` and `training_rewards.png`. Generated results are ignored by Git by default; commit selected outputs only after verifying them.\n
